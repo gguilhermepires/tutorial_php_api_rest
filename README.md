@@ -1,5 +1,10 @@
 # tutorial_php_api_rest
-Tutorial de uma api rest com php ( em andamento, este  tutorial não está finalizado )
+
+Tutorial de uma api rest com php ( em andamento, este  tutorial não está finalizado ).
+
+Falta fazer ajustes no código.
+
+
 ├─ api/
 
 ├─── config/
